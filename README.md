@@ -1,5 +1,4 @@
 # QRcode_Generator
-# QR Code Generator
 
 This script will generate the QR Code of the given link.
 
